@@ -4,6 +4,8 @@
  * @author Bartosz Wojciechowski
  * @license The MIT License (MIT)
  */
+
+
 ;(function($, window, document, undefined) {
 
 	/**
